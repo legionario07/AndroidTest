@@ -26,6 +26,7 @@
             android:theme="@style/AlertDialog.AppCompat"
             android:label="Login">
 
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
